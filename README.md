@@ -831,7 +831,7 @@ This list is just an updated list from the [gayanvoice/top-github-users](https:/
     chrinore Esambu
     </td>
     <td>Tika</td>
-    <td align="center">900</td>
+        <td align="center">1086</td>
 </tr>
 <tr>
     <td align="center">75</td>
