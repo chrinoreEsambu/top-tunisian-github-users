@@ -286,6 +286,17 @@ This list is just an updated list from the [gayanvoice/top-github-users](https:/
 <tr>
     <td align="center">25</td>
     <td>
+        <a href="https://github.com/chrinoreEsambu">
+            <img src="https://avatars.githubusercontent.com/u/195829364?s=400&u=0a7344fa8cc7744c8da2295423f7625de053bb02&v=4" width = "24" alt = "Avatar of chrinoreEsambu" >chrinoreEsambu
+        </a><br/>
+    chrinore Esambu
+    </td>
+    <td>Tika</td>
+    <td align="center">1524</td>
+</tr>
+<tr>
+    <td align="center">26</td>
+    <td>
         <a href="https://github.com/Dopeamin">
             <img src="https://avatars.githubusercontent.com/u/30242595?v=4" width = "24" alt = "Avatar of Dopeamin" >Dopeamin
         </a><br/>
@@ -295,7 +306,7 @@ This list is just an updated list from the [gayanvoice/top-github-users](https:/
     <td align="center">1522</td>
 </tr>
 <tr>
-    <td align="center">26</td>
+    <td align="center">27</td>
     <td>
         <a href="https://github.com/97Fakhreddine">
             <img src="https://avatars.githubusercontent.com/u/74403926?v=4" width = "24" alt = "Avatar of 97Fakhreddine" >97Fakhreddine
@@ -306,7 +317,7 @@ This list is just an updated list from the [gayanvoice/top-github-users](https:/
     <td align="center">1495</td>
 </tr>
 <tr>
-    <td align="center">27</td>
+    <td align="center">28</td>
     <td>
         <a href="https://github.com/WassimBenzarti">
             <img src="https://avatars.githubusercontent.com/u/20246795?v=4" width = "24" alt = "Avatar of WassimBenzarti" >WassimBenzarti
@@ -317,7 +328,7 @@ This list is just an updated list from the [gayanvoice/top-github-users](https:/
     <td align="center">1471</td>
 </tr>
 <tr>
-    <td align="center">28</td>
+    <td align="center">29</td>
     <td>
         <a href="https://github.com/MalekWahmi">
             <img src="https://avatars.githubusercontent.com/u/74403943?v=4" width = "24" alt = "Avatar of MalekWahmi" >MalekWahmi
@@ -328,7 +339,7 @@ This list is just an updated list from the [gayanvoice/top-github-users](https:/
     <td align="center">1458</td>
 </tr>
 <tr>
-    <td align="center">29</td>
+    <td align="center">30</td>
     <td>
         <a href="https://github.com/Hazem-Ben-Khalfallah">
             <img src="https://avatars.githubusercontent.com/u/3428858?v=4" width = "24" alt = "Avatar of Hazem-Ben-Khalfallah" >Hazem-Ben-Khalfallah
@@ -382,17 +393,7 @@ This list is just an updated list from the [gayanvoice/top-github-users](https:/
     <td>ESPRIT @AiGotsrl</td>
     <td align="center">1396</td>
 </tr>
-<tr>
-    <td align="center">34</td>
-    <td>
-        <a href="https://github.com/chrinoreEsambu">
-            <img src="https://avatars.githubusercontent.com/u/195829364?s=400&u=0a7344fa8cc7744c8da2295423f7625de053bb02&v=4" width = "24" alt = "Avatar of chrinoreEsambu" >chrinoreEsambu
-        </a><br/>
-    chrinore Esambu
-    </td>
-    <td>Tika</td>
-    <td align="center">1364</td>
-</tr>
+
 <tr>
     <td align="center">35</td>
     <td>
